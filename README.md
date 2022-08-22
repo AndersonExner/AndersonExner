@@ -28,7 +28,7 @@
 
   ## 📫 &nbsp;Contato
 
-   [![LinkedIn Badge](https://img.shields.io/badge/-Anderson_Exner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/andersonexner])&nbsp;
+   [![LinkedIn Badge](https://img.shields.io/badge/-Anderson_Exner-blue?style=flat-square&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/andersonexner])&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-andersonexner@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:andersonexner@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-Andersonexner-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/AndersonExner/)&nbsp;
   
