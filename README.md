@@ -12,7 +12,7 @@
 
 📚 Estudante da 10ª Edição Programa Starter Full Stack Developer na GrowDev.
   
-🌱 Português/Inglês/Espanhol
+🌱 Inglês/Espanhol
   
 🌱  Futuro Desenvolver WEB
 
