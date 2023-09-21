@@ -10,19 +10,17 @@
 
   ## 🧭 &nbsp;About Me
 
-📚 Estudante da 10ª Edição Programa Starter Full Stack Developer na GrowDev.
+📚 Desenvolvedor WEB
   
 🌱 Inglês/Espanhol
   
-🌱  Desenvolvedor WEB
-
 ### Conhecimento em:
   
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScriot](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+
 
 
   <hr/>
